@@ -37,3 +37,10 @@
     transform: translateY(0px)
   }
 }
+
+p {
+  font-size: 40px;
+  font-weight: bold;
+  color: purple;
+  font-family: Arial, Helvetica, sans-serif;
+}
